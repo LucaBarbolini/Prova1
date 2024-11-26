@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-7" value="ADMIN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="740" width="30" height="60" as="geometry" />
+          <mxGeometry x="130" y="687.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-11" value="Visualizzare un post" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="623.75" width="100" height="45" as="geometry" />
@@ -62,10 +62,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-41" value="Visualizzare un post" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="676.25" width="100" height="45" as="geometry" />
+          <mxGeometry x="200" y="631.25" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-42" value="Creare un post" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="747.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="200" y="695" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="soVya1_GFJN7k5GcahZr-44" target="soVya1_GFJN7k5GcahZr-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -77,31 +77,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-44" value="Profilo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="820" width="100" height="45" as="geometry" />
+          <mxGeometry x="200" y="760" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-45" value="Segnala post" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="676.25" width="100" height="45" as="geometry" />
+          <mxGeometry x="325" y="631.25" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="soVya1_GFJN7k5GcahZr-47" target="soVya1_GFJN7k5GcahZr-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-47" value="Cronologia post" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="820" width="100" height="45" as="geometry" />
+          <mxGeometry x="325" y="760" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-48" value="Modifica / eliminazione post" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="820" width="100" height="45" as="geometry" />
+          <mxGeometry x="450" y="760" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="soVya1_GFJN7k5GcahZr-50" target="soVya1_GFJN7k5GcahZr-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-50" value="Lista segnalazioni" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="893.75" width="100" height="45" as="geometry" />
+          <mxGeometry x="325" y="820" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-51" value="Modifica / eliminazione post" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="893.75" width="100" height="45" as="geometry" />
+          <mxGeometry x="450" y="820" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="soVya1_GFJN7k5GcahZr-52" value="Promuovere altri utenti" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="960" width="100" height="45" as="geometry" />
+          <mxGeometry x="325" y="880" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
