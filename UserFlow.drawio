@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1" pages="2">
   <diagram name="Registrazione" id="raB2J3A79mVXJWlzleP7">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,6 +126,138 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0chktkeY3AYQwsLdmLjI-38" value="Email di conferma&lt;div&gt;della creazione&amp;nbsp;&lt;/div&gt;&lt;div&gt;dell&#39;account&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Report" id="3LXBdIhEb1W65V4mlh5u">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-0" />
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-1" parent="Xajj7K2Lql-VBdXeDjx6-0" />
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-3" target="Xajj7K2Lql-VBdXeDjx6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-3" value="Inizio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="40" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-4" value="Registrato?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="280" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-6" target="Xajj7K2Lql-VBdXeDjx6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-6" value="Inserire i dati login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="480" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-4" target="Xajj7K2Lql-VBdXeDjx6-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="200" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-8" value="SI" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontStyle=1;labelBorderColor=none;fontSize=13;" connectable="0" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-9" value="Accesso effettuato" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="720" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-10" value="Indice sicurezza&lt;div&gt;password&lt;/div&gt;&lt;div&gt;(debole/media/forte)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="720" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-12" target="Xajj7K2Lql-VBdXeDjx6-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-12" value="Inserimento&lt;div&gt;Email/Username&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="720" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-13" value="Verifica account esistente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="480" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-15" target="Xajj7K2Lql-VBdXeDjx6-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-15" value="Autenticazione" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="720" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-16" value="Registrazione&amp;nbsp;&lt;div&gt;SSO&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;o manuale&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="260" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-4" target="Xajj7K2Lql-VBdXeDjx6-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="460" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-18" value="NO" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBorderColor=none;fontStyle=1;textShadow=0;fontSize=13;" connectable="0" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-16" target="Xajj7K2Lql-VBdXeDjx6-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-13" target="Xajj7K2Lql-VBdXeDjx6-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="460" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="420" />
+              <mxPoint x="660" y="420" />
+              <mxPoint x="660" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-21" value="Registrazione manuale" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-13" target="Xajj7K2Lql-VBdXeDjx6-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="460" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="420" />
+              <mxPoint x="660" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-23" value="Registrazione Google" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-24" value="Account esistente&lt;div&gt;- suggerisci login&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="480" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-13" target="Xajj7K2Lql-VBdXeDjx6-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="480" as="sourcePoint" />
+            <mxPoint x="480" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-26" value="SI" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;" connectable="0" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-12" target="Xajj7K2Lql-VBdXeDjx6-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="390" as="sourcePoint" />
+            <mxPoint x="700" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-28" value="Suggerisci password&lt;div&gt;forte&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
+          <mxGeometry x="960" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Xajj7K2Lql-VBdXeDjx6-1" source="Xajj7K2Lql-VBdXeDjx6-10" target="Xajj7K2Lql-VBdXeDjx6-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="370" as="sourcePoint" />
+            <mxPoint x="1100" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-30" value="Se debole" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;" connectable="0" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xajj7K2Lql-VBdXeDjx6-31" value="Email di conferma&lt;div&gt;della creazione&amp;nbsp;&lt;/div&gt;&lt;div&gt;dell&#39;account&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xajj7K2Lql-VBdXeDjx6-1">
           <mxGeometry x="960" y="380" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
