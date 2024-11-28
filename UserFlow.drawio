@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2" pages="3">
   <diagram name="Registrazione" id="raB2J3A79mVXJWlzleP7">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,6 +127,126 @@
         </mxCell>
         <mxCell id="0chktkeY3AYQwsLdmLjI-38" value="Email di conferma&lt;div&gt;della creazione&amp;nbsp;&lt;/div&gt;&lt;div&gt;dell&#39;account&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Totale" id="yJlQ3ctHd8XBBkTdLWsM">
+    <mxGraphModel dx="1877" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="COcmYTDVUGgVexdowzIs-0" />
+        <mxCell id="COcmYTDVUGgVexdowzIs-1" parent="COcmYTDVUGgVexdowzIs-0" />
+        <mxCell id="COcmYTDVUGgVexdowzIs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-3" target="COcmYTDVUGgVexdowzIs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-3" value="Inizio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="40" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-4" value="Registrato?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="280" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-6" target="COcmYTDVUGgVexdowzIs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-6" value="Inserire i dati login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="480" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-4" target="COcmYTDVUGgVexdowzIs-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="200" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-8" value="SI" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontStyle=1;labelBorderColor=none;fontSize=13;" connectable="0" vertex="1" parent="COcmYTDVUGgVexdowzIs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-9" value="Accesso effettuato" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="720" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-10" value="Indice sicurezza&lt;div&gt;password&lt;/div&gt;&lt;div&gt;(debole/media/forte)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="580" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OR76Nuv2TNyq0UpXCF-Z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-12" target="COcmYTDVUGgVexdowzIs-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OR76Nuv2TNyq0UpXCF-Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-12" target="COcmYTDVUGgVexdowzIs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-12" value="Inserimento&lt;div&gt;Email/Username&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="390" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-13" value="Verifica account esistente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="260" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OR76Nuv2TNyq0UpXCF-Z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-15" target="COcmYTDVUGgVexdowzIs-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-15" value="Autenticazione" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="130" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OR76Nuv2TNyq0UpXCF-Z-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-16" target="COcmYTDVUGgVexdowzIs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-16" value="Registrazione&amp;nbsp;&lt;div&gt;SSO&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;o manuale&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="260" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-4" target="COcmYTDVUGgVexdowzIs-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="460" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-18" value="NO" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBorderColor=none;fontStyle=1;textShadow=0;fontSize=13;" connectable="0" vertex="1" parent="COcmYTDVUGgVexdowzIs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-24" value="Account esistente&lt;div&gt;- suggerisci login&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="80" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-13" target="COcmYTDVUGgVexdowzIs-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="480" as="sourcePoint" />
+            <mxPoint x="480" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-26" value="SI" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;" connectable="0" vertex="1" parent="COcmYTDVUGgVexdowzIs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-28" value="Suggerisci password&lt;div&gt;forte&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="580" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-10" target="COcmYTDVUGgVexdowzIs-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="370" as="sourcePoint" />
+            <mxPoint x="1100" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-30" value="Se debole" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;" connectable="0" vertex="1" parent="COcmYTDVUGgVexdowzIs-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COcmYTDVUGgVexdowzIs-31" value="Email di conferma&lt;div&gt;della creazione&amp;nbsp;&lt;/div&gt;&lt;div&gt;dell&#39;account&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="260" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OR76Nuv2TNyq0UpXCF-Z-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-13" target="COcmYTDVUGgVexdowzIs-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="630" as="sourcePoint" />
+            <mxPoint x="520" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR76Nuv2TNyq0UpXCF-Z-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Registrazione Google&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="OR76Nuv2TNyq0UpXCF-Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OR76Nuv2TNyq0UpXCF-Z-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="COcmYTDVUGgVexdowzIs-1" source="COcmYTDVUGgVexdowzIs-13" target="COcmYTDVUGgVexdowzIs-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="630" as="sourcePoint" />
+            <mxPoint x="520" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR76Nuv2TNyq0UpXCF-Z-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Registrazione manuale&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="OR76Nuv2TNyq0UpXCF-Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D18HqYv37MJUMJOD52Fu-0" value="Inizio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="COcmYTDVUGgVexdowzIs-1">
+          <mxGeometry x="-80" y="-30" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
