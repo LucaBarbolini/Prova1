@@ -785,7 +785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="22-fHqclCilfkWVkM6mf" name="Pagina-14">
-    <mxGraphModel dx="1843" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1026,7 +1026,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iye-rMeGso-D2waOzQOD-105" value="Gestione nuova&amp;nbsp;&lt;div&gt;segnalazione&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="220" y="760" width="180" height="90" as="geometry" />
+          <mxGeometry x="220" y="760" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Iye-rMeGso-D2waOzQOD-106" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="Iye-rMeGso-D2waOzQOD-105">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -1040,6 +1040,18 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Iye-rMeGso-D2waOzQOD-111" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="180" y="790" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iye-rMeGso-D2waOzQOD-114" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iye-rMeGso-D2waOzQOD-105" target="Iye-rMeGso-D2waOzQOD-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="780" as="sourcePoint" />
+            <mxPoint x="630" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iye-rMeGso-D2waOzQOD-115" value="Dati nuova segnalazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="785" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
