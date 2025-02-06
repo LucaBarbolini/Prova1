@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="13">
   <diagram name="User Type" id="H7-W1Fx-3PqU2nWDfVsV">
     <mxGraphModel dx="1900" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -372,15 +372,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DGkclgffEr_CNijxs_8v" name="Modifica password">
-    <mxGraphModel dx="1339" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HU9eBamHWcVVeqIukPjP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HU9eBamHWcVVeqIukPjP-1" target="HU9eBamHWcVVeqIukPjP-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HU9eBamHWcVVeqIukPjP-1" value="UA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="290" width="30" height="60" as="geometry" />
+        <mxCell id="HU9eBamHWcVVeqIukPjP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="HU9eBamHWcVVeqIukPjP-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="320" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HU9eBamHWcVVeqIukPjP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HU9eBamHWcVVeqIukPjP-2" target="HU9eBamHWcVVeqIukPjP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -424,6 +423,68 @@
         </mxCell>
         <mxCell id="sJXnkr1Ijp9hFz3nRsTX-4" value="Controllo sicurezza" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7Yn323N5PorTmIH_b1Vu-1" value="UA / ADMIN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Password dimenticata" id="jKZ_mpXapUjPXz2vsEww">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-0" />
+        <mxCell id="_Ie5Prcc1BN862HW02LK-1" parent="_Ie5Prcc1BN862HW02LK-0" />
+        <mxCell id="_Ie5Prcc1BN862HW02LK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_Ie5Prcc1BN862HW02LK-1" target="_Ie5Prcc1BN862HW02LK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_Ie5Prcc1BN862HW02LK-1" source="_Ie5Prcc1BN862HW02LK-4" target="_Ie5Prcc1BN862HW02LK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-4" value="Password dimenticata" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_Ie5Prcc1BN862HW02LK-1">
+          <mxGeometry x="140" y="285" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_Ie5Prcc1BN862HW02LK-1" source="_Ie5Prcc1BN862HW02LK-6" target="_Ie5Prcc1BN862HW02LK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-6" value="Inserimento per la mail di riferimento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_Ie5Prcc1BN862HW02LK-1">
+          <mxGeometry x="330" y="285" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_Ie5Prcc1BN862HW02LK-1" source="_Ie5Prcc1BN862HW02LK-8" target="_Ie5Prcc1BN862HW02LK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-8" value="Email con link" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_Ie5Prcc1BN862HW02LK-1">
+          <mxGeometry x="520" y="285" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_Ie5Prcc1BN862HW02LK-1" source="_Ie5Prcc1BN862HW02LK-11" target="_Ie5Prcc1BN862HW02LK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="_Ie5Prcc1BN862HW02LK-9">
+          <mxGeometry x="-0.3778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-11" value="Inserimento nuova password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_Ie5Prcc1BN862HW02LK-1">
+          <mxGeometry x="710" y="285" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_Ie5Prcc1BN862HW02LK-1" source="_Ie5Prcc1BN862HW02LK-14" target="_Ie5Prcc1BN862HW02LK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-13" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="_Ie5Prcc1BN862HW02LK-12">
+          <mxGeometry x="-0.4222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-14" value="Validità di 24 ore" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_Ie5Prcc1BN862HW02LK-1">
+          <mxGeometry x="520" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-15" value="Controllo sicurezza" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_Ie5Prcc1BN862HW02LK-1">
+          <mxGeometry x="710" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ie5Prcc1BN862HW02LK-16" value="UA / ADMIN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="_Ie5Prcc1BN862HW02LK-1">
+          <mxGeometry x="50" y="290" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
