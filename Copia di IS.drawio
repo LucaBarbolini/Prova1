@@ -785,7 +785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="22-fHqclCilfkWVkM6mf" name="Pagina-14">
-    <mxGraphModel dx="577" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -965,7 +965,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iye-rMeGso-D2waOzQOD-86" value="Segnalazioni utente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="415" y="610" width="130" height="30" as="geometry" />
+          <mxGeometry x="415" y="600" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iye-rMeGso-D2waOzQOD-87" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=south;" parent="1" vertex="1">
           <mxGeometry x="640" y="480" width="20" height="20" as="geometry" />
@@ -1118,6 +1118,24 @@
         </mxCell>
         <mxCell id="_gtA_CawfAoJgU1ba7e3-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="770" y="630" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_gtA_CawfAoJgU1ba7e3-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_gtA_CawfAoJgU1ba7e3-16" target="Iye-rMeGso-D2waOzQOD-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="810" as="sourcePoint" />
+            <mxPoint x="560" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_gtA_CawfAoJgU1ba7e3-18" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Iye-rMeGso-D2waOzQOD-105" target="_gtA_CawfAoJgU1ba7e3-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="810" as="sourcePoint" />
+            <mxPoint x="560" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_gtA_CawfAoJgU1ba7e3-16" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="640" y="780" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_gtA_CawfAoJgU1ba7e3-19" value="Dati segnalazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="590" y="800" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
