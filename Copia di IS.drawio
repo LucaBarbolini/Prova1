@@ -975,7 +975,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iye-rMeGso-D2waOzQOD-95" value="Gestione profilo" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="Iye-rMeGso-D2waOzQOD-95" value="Gestione profilo&amp;nbsp;&lt;div&gt;utente&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="900" y="280" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Iye-rMeGso-D2waOzQOD-96" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="Iye-rMeGso-D2waOzQOD-95" vertex="1">
