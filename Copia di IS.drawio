@@ -1261,7 +1261,7 @@
             <mxPoint x="280" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-41" target="e23WEg6rEEtVddXy9crT-45">
+        <mxCell id="e23WEg6rEEtVddXy9crT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-41" target="e23WEg6rEEtVddXy9crT-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-41" value="Pagina recupero password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -1270,11 +1270,20 @@
         <mxCell id="e23WEg6rEEtVddXy9crT-44" value="Pagina login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="590" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-45" value="Compila e invia il form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="e23WEg6rEEtVddXy9crT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-45" target="e23WEg6rEEtVddXy9crT-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-47" value="Pagina recupero password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="700" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="e23WEg6rEEtVddXy9crT-45" value="Compila e invia il form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-47" target="e23WEg6rEEtVddXy9crT-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-47" value="Email per il cambio password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-49" value="Accessi sucessivi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
