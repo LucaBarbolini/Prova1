@@ -1105,8 +1105,8 @@
         <mxCell id="QrShYVT4EKscDeQQaigj-13" value="Modifica segnalazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1010" y="200" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0zgS8dNGgd2oNl2lfCfA-3" value="Eliminazione segnalazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="200" width="170" height="30" as="geometry" />
+        <mxCell id="0zgS8dNGgd2oNl2lfCfA-3" value="Elimina segnalazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="200" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0zgS8dNGgd2oNl2lfCfA-8" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" vertex="1" parent="1">
           <mxGeometry x="807" y="290" width="20" height="20" as="geometry" />
