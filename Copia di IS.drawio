@@ -1123,8 +1123,8 @@
             <mxPoint x="710" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0zgS8dNGgd2oNl2lfCfA-11" value="Alterazioni segnalazioni" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="742" y="265" width="150" height="30" as="geometry" />
+        <mxCell id="0zgS8dNGgd2oNl2lfCfA-11" value="Modifiche profilo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="762" y="265" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0zgS8dNGgd2oNl2lfCfA-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=east;" vertex="1" parent="1">
           <mxGeometry x="980" y="200" width="20" height="20" as="geometry" />
