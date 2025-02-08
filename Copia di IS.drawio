@@ -1282,8 +1282,46 @@
         <mxCell id="e23WEg6rEEtVddXy9crT-47" value="Email per il cambio password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="340" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-49" value="Accessi sucessivi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="e23WEg6rEEtVddXy9crT-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-49" target="e23WEg6rEEtVddXy9crT-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-49" value="Link per tornare all&#39;applicazione" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="340" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-51" target="e23WEg6rEEtVddXy9crT-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-51" value="Pagina reset password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-54" target="e23WEg6rEEtVddXy9crT-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-54" value="Compila e invia il form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-56" target="e23WEg6rEEtVddXy9crT-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-56" value="Dati validi" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-59" value="Pausa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-60" value="Pagina login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-62" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-63" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1280" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
