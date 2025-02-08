@@ -1170,7 +1170,7 @@
             <mxPoint x="400" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-3" target="e23WEg6rEEtVddXy9crT-39">
+        <mxCell id="e23WEg6rEEtVddXy9crT-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-3" target="e23WEg6rEEtVddXy9crT-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="340" as="targetPoint" />
           </mxGeometry>
@@ -1190,44 +1190,44 @@
         <mxCell id="e23WEg6rEEtVddXy9crT-12" value="Click su &quot;registrati&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-14" target="e23WEg6rEEtVddXy9crT-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-14" target="e23WEg6rEEtVddXy9crT-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-14" target="e23WEg6rEEtVddXy9crT-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-14" target="e23WEg6rEEtVddXy9crT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-14" value="Pagina registrazione" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-16" target="e23WEg6rEEtVddXy9crT-18">
+        <mxCell id="e23WEg6rEEtVddXy9crT-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-16" target="e23WEg6rEEtVddXy9crT-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-16" value="Compila e invia il form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-18" target="e23WEg6rEEtVddXy9crT-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-18" target="e23WEg6rEEtVddXy9crT-27">
+        <mxCell id="e23WEg6rEEtVddXy9crT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-18" target="e23WEg6rEEtVddXy9crT-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-18" value="Dati validi" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="700" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-22" value="Pausa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="700" y="30" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-24" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="120" width="40" height="30" as="geometry" />
+          <mxGeometry x="40" y="120" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-27" value="Pagina login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="-120" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-29" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="780" y="160" width="30" height="30" as="geometry" />
+          <mxGeometry y="160" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-30" target="e23WEg6rEEtVddXy9crT-32">
           <mxGeometry relative="1" as="geometry" />
@@ -1238,20 +1238,20 @@
         <mxCell id="e23WEg6rEEtVddXy9crT-32" value="Pagina login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-34" target="e23WEg6rEEtVddXy9crT-36">
+        <mxCell id="e23WEg6rEEtVddXy9crT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-34" target="e23WEg6rEEtVddXy9crT-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-34" value="Click su &quot;Continua senza accedere&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-36" value="Home page UNA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-39" target="e23WEg6rEEtVddXy9crT-36">
+        <mxCell id="e23WEg6rEEtVddXy9crT-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-39" target="e23WEg6rEEtVddXy9crT-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-39" value="Click su &quot;Continua senza accedere&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-41" target="e23WEg6rEEtVddXy9crT-44">
           <mxGeometry relative="1" as="geometry">
