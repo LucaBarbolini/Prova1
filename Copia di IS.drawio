@@ -1178,7 +1178,10 @@
         <mxCell id="e23WEg6rEEtVddXy9crT-3" value="Bivio" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-5" value="Recupera password&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="e23WEg6rEEtVddXy9crT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-5" target="e23WEg6rEEtVddXy9crT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-5" value="Click su &quot;Recupera password&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-11" value="Accessi sucessivi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -1187,7 +1190,7 @@
         <mxCell id="e23WEg6rEEtVddXy9crT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-12" target="e23WEg6rEEtVddXy9crT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-12" value="Click su registrati" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="e23WEg6rEEtVddXy9crT-12" value="Click su &quot;registrati&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-14" target="e23WEg6rEEtVddXy9crT-16">
@@ -1232,7 +1235,7 @@
         <mxCell id="e23WEg6rEEtVddXy9crT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-30" target="e23WEg6rEEtVddXy9crT-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e23WEg6rEEtVddXy9crT-30" value="Click su login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="e23WEg6rEEtVddXy9crT-30" value="Click su &quot;Hai già un account? Login&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-32" value="Pagina login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1252,6 +1255,26 @@
         </mxCell>
         <mxCell id="e23WEg6rEEtVddXy9crT-39" value="Click su continua senza accedere" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e23WEg6rEEtVddXy9crT-41" target="e23WEg6rEEtVddXy9crT-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-41" value="Pagina recupero password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-44" value="Pagina login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-45" value="Compila e invia il form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e23WEg6rEEtVddXy9crT-47" value="Pagina recupero password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="700" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
