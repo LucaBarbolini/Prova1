@@ -49,8 +49,25 @@
         <mxCell id="4r31cYOIHmRY1Hmb6KCA-23" value="Utente non autenticato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4r31cYOIHmRY1Hmb6KCA-24" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="10" width="30" height="60" as="geometry" />
+        <mxCell id="4r31cYOIHmRY1Hmb6KCA-24" value="Utente privato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4r31cYOIHmRY1Hmb6KCA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4r31cYOIHmRY1Hmb6KCA-25" target="4r31cYOIHmRY1Hmb6KCA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4r31cYOIHmRY1Hmb6KCA-25" value="Ente pubblico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4r31cYOIHmRY1Hmb6KCA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4r31cYOIHmRY1Hmb6KCA-24" target="4r31cYOIHmRY1Hmb6KCA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4r31cYOIHmRY1Hmb6KCA-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4r31cYOIHmRY1Hmb6KCA-23" target="4r31cYOIHmRY1Hmb6KCA-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="110" as="sourcePoint" />
+            <mxPoint x="610" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
