@@ -101,8 +101,8 @@
             <mxPoint x="110" y="79.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0n03NGKNRaiiEo8_zls6-45" value="Filtri" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="105" width="50" height="30" as="geometry" />
+        <mxCell id="0n03NGKNRaiiEo8_zls6-45" value="Filtri da applicare" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="105" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0n03NGKNRaiiEo8_zls6-46" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-5" y="110" width="10" height="20" as="geometry" />
@@ -116,14 +116,14 @@
         <mxCell id="0n03NGKNRaiiEo8_zls6-49" value="Risultati ricerca" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-110" y="25" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0n03NGKNRaiiEo8_zls6-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0n03NGKNRaiiEo8_zls6-53" target="0n03NGKNRaiiEo8_zls6-13">
+        <mxCell id="0n03NGKNRaiiEo8_zls6-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0n03NGKNRaiiEo8_zls6-53" target="0n03NGKNRaiiEo8_zls6-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5" y="440" as="sourcePoint" />
+            <mxPoint x="30" y="490" as="sourcePoint" />
             <mxPoint x="160" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0n03NGKNRaiiEo8_zls6-53" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="430" width="20" height="20" as="geometry" />
+          <mxGeometry x="-10" y="470" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0n03NGKNRaiiEo8_zls6-55" value="Modifica dati personali" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-145" y="425" width="140" height="30" as="geometry" />
@@ -250,6 +250,30 @@
         </mxCell>
         <mxCell id="0n03NGKNRaiiEo8_zls6-92" value="Credenziali autenticazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0n03NGKNRaiiEo8_zls6-93" value="Dati personali" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="465" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0n03NGKNRaiiEo8_zls6-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0n03NGKNRaiiEo8_zls6-95" target="0n03NGKNRaiiEo8_zls6-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="390" as="sourcePoint" />
+            <mxPoint x="270" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0n03NGKNRaiiEo8_zls6-95" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="430" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0n03NGKNRaiiEo8_zls6-96" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="70" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0n03NGKNRaiiEo8_zls6-97" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0n03NGKNRaiiEo8_zls6-96" target="0n03NGKNRaiiEo8_zls6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="89.13" as="sourcePoint" />
+            <mxPoint x="135" y="89.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0n03NGKNRaiiEo8_zls6-98" value="Ente da cercare" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="65" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
