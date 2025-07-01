@@ -1088,6 +1088,17 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="n8KjKF3J761Cg8wCBeQg-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="vihJ1IUR7vdHJCDXQJQJ-1" source="n8KjKF3J761Cg8wCBeQg-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="20" as="sourcePoint" />
+            <mxPoint x="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8KjKF3J761Cg8wCBeQg-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Lista segnalazioni&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#ffffff, #ededed);" vertex="1" connectable="0" parent="n8KjKF3J761Cg8wCBeQg-11">
+          <mxGeometry x="0.1373" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
