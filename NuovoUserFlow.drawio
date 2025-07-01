@@ -1012,6 +1012,15 @@
         <mxCell id="0SH3wxPHxQ4h-0rZ8JnU-3" value="Pubblicazione del report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z4vY9mXpQz2CgL6Hf6p4-1">
           <mxGeometry x="2000" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0SH3wxPHxQ4h-0rZ8JnU-7" value="Valida segnalazione" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="z4vY9mXpQz2CgL6Hf6p4-1">
+          <mxGeometry x="2400" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0SH3wxPHxQ4h-0rZ8JnU-8" value="Assegna priorità" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="z4vY9mXpQz2CgL6Hf6p4-1">
+          <mxGeometry x="2400" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0SH3wxPHxQ4h-0rZ8JnU-9" value="Assegna priorità" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="z4vY9mXpQz2CgL6Hf6p4-1">
+          <mxGeometry x="2400" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
