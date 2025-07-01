@@ -569,7 +569,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia di Pagina-1" id="plaKlhRM4dCEoPoxe0Qb">
-    <mxGraphModel dx="1248" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1879" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-0" />
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-1" parent="vihJ1IUR7vdHJCDXQJQJ-0" />
@@ -1131,6 +1131,20 @@
             <Array as="points">
               <mxPoint x="690" y="460" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8KjKF3J761Cg8wCBeQg-0" value="Gestione admin" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+          <mxGeometry x="440" y="-160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n8KjKF3J761Cg8wCBeQg-1" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="n8KjKF3J761Cg8wCBeQg-0">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8KjKF3J761Cg8wCBeQg-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="vihJ1IUR7vdHJCDXQJQJ-1" source="vihJ1IUR7vdHJCDXQJQJ-2" target="n8KjKF3J761Cg8wCBeQg-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="100" as="sourcePoint" />
+            <mxPoint x="560" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
