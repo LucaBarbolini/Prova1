@@ -621,7 +621,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-14" value="Gestione segnalazione&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-14" value="Gestione segnalazione utente&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
           <mxGeometry x="40" y="240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-15" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-14">
@@ -1080,7 +1080,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8KjKF3J761Cg8wCBeQg-9" value="Gestione segnalazioni admin&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+        <mxCell id="n8KjKF3J761Cg8wCBeQg-9" value="Gestione segnalazioni amministratore&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
           <mxGeometry x="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n8KjKF3J761Cg8wCBeQg-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="n8KjKF3J761Cg8wCBeQg-9">
