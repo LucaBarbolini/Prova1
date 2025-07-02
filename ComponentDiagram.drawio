@@ -569,7 +569,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia di Pagina-1" id="plaKlhRM4dCEoPoxe0Qb">
-    <mxGraphModel dx="1869" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2911" dy="2293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-0" />
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-1" parent="vihJ1IUR7vdHJCDXQJQJ-0" />
@@ -620,9 +620,6 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZgYm36vh-jz0K16FjPFa-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vihJ1IUR7vdHJCDXQJQJ-1" source="vihJ1IUR7vdHJCDXQJQJ-14" target="vihJ1IUR7vdHJCDXQJQJ-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-14" value="Gestione segnalazione utente&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="40" y="240" width="160" height="80" as="geometry" />
@@ -1084,7 +1081,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n8KjKF3J761Cg8wCBeQg-9" value="Gestione segnalazioni amministratore&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="40" width="160" height="80" as="geometry" />
+          <mxGeometry x="-470" y="-140" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n8KjKF3J761Cg8wCBeQg-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="n8KjKF3J761Cg8wCBeQg-9" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -1094,16 +1091,14 @@
         <mxCell id="n8KjKF3J761Cg8wCBeQg-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="vihJ1IUR7vdHJCDXQJQJ-1" source="n8KjKF3J761Cg8wCBeQg-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="20" as="sourcePoint" />
-            <mxPoint x="350" as="targetPoint" />
+            <mxPoint x="-110" y="-80" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n8KjKF3J761Cg8wCBeQg-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Lista segnalazioni&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#ffffff, #ededed);" parent="n8KjKF3J761Cg8wCBeQg-11" vertex="1" connectable="0">
           <mxGeometry x="0.1373" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZgYm36vh-jz0K16FjPFa-1" value="Segnalazioni utente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
-          <mxGeometry x="-5" y="368" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
