@@ -621,6 +621,9 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZgYm36vh-jz0K16FjPFa-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vihJ1IUR7vdHJCDXQJQJ-1" source="vihJ1IUR7vdHJCDXQJQJ-14" target="vihJ1IUR7vdHJCDXQJQJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-14" value="Gestione segnalazione utente&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="40" y="240" width="160" height="80" as="geometry" />
         </mxCell>
@@ -1098,6 +1101,9 @@
           <mxGeometry x="0.1373" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZgYm36vh-jz0K16FjPFa-1" value="Segnalazioni utente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+          <mxGeometry x="-5" y="368" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
