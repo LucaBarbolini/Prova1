@@ -915,10 +915,10 @@
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-108" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="1070" y="510" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-109" value="Notifiche push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="1090" y="505" width="100" height="30" as="geometry" />
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-109" value="Ricezione notifiche push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+          <mxGeometry x="1091" y="505" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-110" value="Ricezione notifiche d&#39;emergenza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-110" value="Ricezione notifiche di emergenza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="1090" y="465" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-111" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
@@ -929,9 +929,6 @@
             <mxPoint x="1100" y="420" as="sourcePoint" />
             <mxPoint x="1150" y="370" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-113" value="Creazione notifiche d&#39;emergenza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="1090" y="425" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-114" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;rotation=0;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="710" y="450" width="20" height="20" as="geometry" />
@@ -949,7 +946,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-118" value="Creazione notifiche di emergenza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="620" y="510" width="200" height="30" as="geometry" />
+          <mxGeometry x="1090" y="425" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-119" value="Invio notifiche" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="670" y="425" width="100" height="30" as="geometry" />
@@ -1094,6 +1091,9 @@
             <mxPoint x="540" y="320" as="sourcePoint" />
             <mxPoint x="590" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EUdTM6jklBKH9MWoZv95-14" value="Salvataggio notifiche" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+          <mxGeometry x="655" y="505" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
