@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-9" value="Reports" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="647" y="370" width="471" height="300" as="geometry" />
+          <mxGeometry x="647" y="370" width="471" height="335" as="geometry" />
         </mxCell>
-        <mxCell id="V4XFyPgnutx3cwaMfU-Y-10" value="- title: String&lt;div&gt;- description: String&lt;/div&gt;&lt;div&gt;- user: User&lt;/div&gt;&lt;div&gt;- location: Number, Number&lt;/div&gt;&lt;div&gt;- photo: String&lt;/div&gt;&lt;div&gt;- tags: String&lt;/div&gt;&lt;div&gt;- timestamps: Data&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="V4XFyPgnutx3cwaMfU-Y-9">
-          <mxGeometry y="26" width="471" height="114" as="geometry" />
+        <mxCell id="V4XFyPgnutx3cwaMfU-Y-10" value="- title: String&lt;div&gt;- description: String&lt;/div&gt;&lt;div&gt;- user: User&lt;/div&gt;&lt;div&gt;- location: Number, Number&lt;/div&gt;&lt;div&gt;- photo: String&lt;/div&gt;&lt;div&gt;- tags: String&lt;/div&gt;&lt;div&gt;- validation: Boolean&lt;/div&gt;&lt;div&gt;- status: String&lt;/div&gt;&lt;div&gt;- timestamps: Data&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="V4XFyPgnutx3cwaMfU-Y-9">
+          <mxGeometry y="26" width="471" height="149" as="geometry" />
         </mxCell>
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="V4XFyPgnutx3cwaMfU-Y-9">
-          <mxGeometry y="140" width="471" height="8" as="geometry" />
+          <mxGeometry y="175" width="471" height="8" as="geometry" />
         </mxCell>
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-12" value="+ createReport(reportData: Data, userId: String, role: String): Void&lt;div&gt;+ deleteReport(reportId: String): Void&lt;/div&gt;&lt;div&gt;+ getReport(reportId: String): Report&lt;/div&gt;&lt;div&gt;+ getAllReports(): Report[]&lt;/div&gt;&lt;div&gt;+ updateReport(reportId: String, reportData: Data): Report&lt;/div&gt;&lt;div&gt;+ getUserReports(userId: String): Report[]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="V4XFyPgnutx3cwaMfU-Y-9">
-          <mxGeometry y="148" width="471" height="152" as="geometry" />
+          <mxGeometry y="183" width="471" height="152" as="geometry" />
         </mxCell>
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-13" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-30" width="160" height="86" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry y="168" width="601" height="136" as="geometry" />
         </mxCell>
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-21" value="Org" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-26" y="370" width="600" height="296" as="geometry" />
+          <mxGeometry x="-26" y="370" width="600" height="338" as="geometry" />
         </mxCell>
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-22" value="- username: String&lt;div&gt;- email: String&lt;/div&gt;&lt;div&gt;- password: String&lt;/div&gt;&lt;div&gt;- phone: Number&lt;/div&gt;&lt;div&gt;- indirizzo: String&lt;/div&gt;&lt;div&gt;- segnalazioni: Report[]&lt;/div&gt;&lt;div&gt;- timestamps: Data&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="V4XFyPgnutx3cwaMfU-Y-21">
           <mxGeometry y="26" width="600" height="132" as="geometry" />
@@ -49,8 +49,8 @@
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="V4XFyPgnutx3cwaMfU-Y-21">
           <mxGeometry y="158" width="600" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="V4XFyPgnutx3cwaMfU-Y-24" value="+ comparePassword(String): Boolean&lt;div&gt;+ generateAuthToken(Void()): String&lt;/div&gt;&lt;div&gt;+ register(username: String, email: String, password: String, phone: Number, indirizzo String):&amp;nbsp;Void&lt;/div&gt;&lt;div&gt;+ login(emial: String, password: String): String&lt;/div&gt;&lt;div&gt;+ getAllUsers(): User[] {-password}&lt;/div&gt;&lt;div&gt;+ editOrg(id: String, username: String, email: String, password: String, phone: Number, indirizzo String): String&lt;/div&gt;&lt;div&gt;+ deleteReport(reportId: String): Void&lt;/div&gt;&lt;div&gt;+ updateReport(reportId: String, reportData: Data): Report[]&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="V4XFyPgnutx3cwaMfU-Y-21">
-          <mxGeometry y="166" width="600" height="130" as="geometry" />
+        <mxCell id="V4XFyPgnutx3cwaMfU-Y-24" value="+ comparePassword(String): Boolean&lt;div&gt;+ generateAuthToken(Void()): String&lt;/div&gt;&lt;div&gt;+ register(username: String, email: String, password: String, phone: Number, indirizzo String):&amp;nbsp;Void&lt;/div&gt;&lt;div&gt;+ login(emial: String, password: String): String&lt;/div&gt;&lt;div&gt;+ getAllUsers(): User[] {-password}&lt;/div&gt;&lt;div&gt;+ editOrg(id: String, username: String, email: String, password: String, phone: Number, indirizzo String): String&lt;/div&gt;&lt;div&gt;+ deleteReport(reportId: String): Void&lt;/div&gt;&lt;div&gt;+ updateReport(reportId: String, reportData: Data): Report[]&lt;/div&gt;&lt;div&gt;+ bannUser(userId: String): Void&lt;/div&gt;&lt;div&gt;+ changeStatus(reportId: String, reportStatus: String): Report&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="V4XFyPgnutx3cwaMfU-Y-21">
+          <mxGeometry y="166" width="600" height="172" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
