@@ -569,7 +569,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia di Pagina-1" id="plaKlhRM4dCEoPoxe0Qb">
-    <mxGraphModel dx="1437" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4160" dy="2418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-0" />
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-1" parent="vihJ1IUR7vdHJCDXQJQJ-0" />
@@ -589,7 +589,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-8" value="Registrazione" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Helvetica;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-8" value="Gestione registrazione" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Helvetica;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="840" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="vihJ1IUR7vdHJCDXQJQJ-8" vertex="1">
@@ -597,7 +597,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-10" value="Login" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-10" value="Gestione autenticazione" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="840" y="320" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-11" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="vihJ1IUR7vdHJCDXQJQJ-10" vertex="1">
@@ -651,7 +651,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-24" value="Credenziali login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="1085" y="385" width="110" height="30" as="geometry" />
+          <mxGeometry x="1088" y="385" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="vihJ1IUR7vdHJCDXQJQJ-1" source="EUdTM6jklBKH9MWoZv95-76" target="vihJ1IUR7vdHJCDXQJQJ-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -717,7 +717,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-52" value="Dati account" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="1070" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="1070" y="241" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-53" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;rotation=0;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="710" y="170" width="20" height="20" as="geometry" />
@@ -740,11 +740,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-56" value="Nuovo account" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="670" y="145" width="100" height="30" as="geometry" />
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-56" value="Validità dei dati" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+          <mxGeometry x="670" y="230" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-57" value="Dati account" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="1095" y="150" width="90" height="30" as="geometry" />
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-57" value="Dati nuova registrazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+          <mxGeometry x="1088" y="145" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-58" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;rotation=0;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="710" y="370" width="20" height="20" as="geometry" />
@@ -764,8 +764,8 @@
             <mxPoint x="800" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-61" value="Credenziali autenticazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="640" y="390" width="160" height="30" as="geometry" />
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-61" value="Credenziali d&#39;accesso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+          <mxGeometry x="650" y="385" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-62" value="Eliminazione profilo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="-168" y="385" width="130" height="30" as="geometry" />
@@ -949,7 +949,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZgYm36vh-jz0K16FjPFa-12" value="Reset password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="1060" y="325" width="110" height="30" as="geometry" />
+          <mxGeometry x="1060" y="285" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZgYm36vh-jz0K16FjPFa-14" value="" style="ellipse;whiteSpace=wrap;html=1;direction=east;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="1470" y="310" width="20" height="20" as="geometry" />
@@ -1200,6 +1200,36 @@
         </mxCell>
         <mxCell id="EUdTM6jklBKH9MWoZv95-85" value="Cronologia segnalazioni" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
           <mxGeometry x="125" y="490" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUdTM6jklBKH9MWoZv95-86" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+          <mxGeometry x="1070" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EUdTM6jklBKH9MWoZv95-87" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vihJ1IUR7vdHJCDXQJQJ-1" source="vihJ1IUR7vdHJCDXQJQJ-8" target="EUdTM6jklBKH9MWoZv95-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="190" as="sourcePoint" />
+            <mxPoint x="1110" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUdTM6jklBKH9MWoZv95-88" value="SSO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+          <mxGeometry x="1086" y="185" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUdTM6jklBKH9MWoZv95-89" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+          <mxGeometry x="1070" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EUdTM6jklBKH9MWoZv95-90" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vihJ1IUR7vdHJCDXQJQJ-1" source="vihJ1IUR7vdHJCDXQJQJ-10" target="EUdTM6jklBKH9MWoZv95-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="340" as="sourcePoint" />
+            <mxPoint x="1120" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUdTM6jklBKH9MWoZv95-91" value="SSO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+          <mxGeometry x="1086" y="345" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUdTM6jklBKH9MWoZv95-92" value="Dati registrazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+          <mxGeometry x="660" y="145" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUdTM6jklBKH9MWoZv95-93" value="Controllo credenziali d&#39;accesso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
+          <mxGeometry x="630" y="305" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
