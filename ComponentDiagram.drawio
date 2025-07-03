@@ -948,11 +948,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-118" value="Creazione notifiche" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="615" y="510" width="130" height="30" as="geometry" />
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-118" value="Creazione notifiche di emergenza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+          <mxGeometry x="620" y="510" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-119" value="Invio notifiche" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="690" y="425" width="100" height="30" as="geometry" />
+          <mxGeometry x="670" y="425" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-120" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="vihJ1IUR7vdHJCDXQJQJ-1" source="vihJ1IUR7vdHJCDXQJQJ-115" target="vihJ1IUR7vdHJCDXQJQJ-103" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
