@@ -569,7 +569,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia di Pagina-1" id="plaKlhRM4dCEoPoxe0Qb">
-    <mxGraphModel dx="4160" dy="2418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2702" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-0" />
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-1" parent="vihJ1IUR7vdHJCDXQJQJ-0" />
@@ -621,7 +621,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-17" value="Gestione mappe" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-17" value="Gestione segnalazioni" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="440" y="-80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="vihJ1IUR7vdHJCDXQJQJ-17" vertex="1">
