@@ -569,7 +569,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia di Pagina-1" id="plaKlhRM4dCEoPoxe0Qb">
-    <mxGraphModel dx="1245" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-0" />
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-1" parent="vihJ1IUR7vdHJCDXQJQJ-0" />
@@ -581,7 +581,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-6" value="Gestore email" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-6" value="Gestore e-mail" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="1241" y="240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="vihJ1IUR7vdHJCDXQJQJ-6" vertex="1">
@@ -698,8 +698,8 @@
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-47" value="" style="ellipse;whiteSpace=wrap;html=1;direction=east;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="1470" y="230" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-48" value="Invia email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="1490" y="225" width="80" height="30" as="geometry" />
+        <mxCell id="vihJ1IUR7vdHJCDXQJQJ-48" value="E-mail creazione account" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+          <mxGeometry x="1485" y="225" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vihJ1IUR7vdHJCDXQJQJ-49" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;rotation=0;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="1105" y="230" width="20" height="20" as="geometry" />
@@ -948,8 +948,8 @@
             <mxPoint x="1060" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZgYm36vh-jz0K16FjPFa-12" value="E-mail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="1085" y="325" width="60" height="30" as="geometry" />
+        <mxCell id="ZgYm36vh-jz0K16FjPFa-12" value="Reset password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+          <mxGeometry x="1060" y="325" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZgYm36vh-jz0K16FjPFa-14" value="" style="ellipse;whiteSpace=wrap;html=1;direction=east;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
           <mxGeometry x="1470" y="310" width="20" height="20" as="geometry" />
@@ -960,8 +960,8 @@
             <mxPoint x="1519" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZgYm36vh-jz0K16FjPFa-17" value="Link reset password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
-          <mxGeometry x="1490" y="305" width="130" height="30" as="geometry" />
+        <mxCell id="ZgYm36vh-jz0K16FjPFa-17" value="E-mail reset password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vihJ1IUR7vdHJCDXQJQJ-1" vertex="1">
+          <mxGeometry x="1488" y="305" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUdTM6jklBKH9MWoZv95-0" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;rotation=0;" vertex="1" parent="vihJ1IUR7vdHJCDXQJQJ-1">
           <mxGeometry x="710" y="210" width="20" height="20" as="geometry" />
