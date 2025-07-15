@@ -1182,7 +1182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hu9rQfPGjnTdZqDQ9A40-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
-          <mxGeometry x="-109" y="-90" width="20" height="20" as="geometry" />
+          <mxGeometry x="-60" y="-90" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hu9rQfPGjnTdZqDQ9A40-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
           <mxGeometry x="110" y="-140" width="20" height="20" as="geometry" />
@@ -1203,7 +1203,7 @@
           <mxGeometry x="50" y="-165" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hu9rQfPGjnTdZqDQ9A40-19" value="Validazione segnalazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
-          <mxGeometry x="-269" y="-95" width="160" height="30" as="geometry" />
+          <mxGeometry x="-218" y="-95" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hu9rQfPGjnTdZqDQ9A40-20" value="Rimozione forzata segnalazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
           <mxGeometry x="105" y="-240" width="190" height="30" as="geometry" />
@@ -1241,10 +1241,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hu9rQfPGjnTdZqDQ9A40-29" value="Eliminazione forzata profilo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
-          <mxGeometry x="-270" y="-55" width="170" height="30" as="geometry" />
+          <mxGeometry x="-228" y="-55" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hu9rQfPGjnTdZqDQ9A40-30" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
-          <mxGeometry x="-104" y="-50" width="10" height="20" as="geometry" />
+          <mxGeometry x="-50" y="-50" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hu9rQfPGjnTdZqDQ9A40-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1" source="hu9rQfPGjnTdZqDQ9A40-30" target="hu9rQfPGjnTdZqDQ9A40-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
