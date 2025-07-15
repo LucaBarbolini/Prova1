@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="Pagina-1" id="D61wX9a7zAdGFQ_ZhTpW">
-    <mxGraphModel dx="1900" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2543" dy="1203" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-9" value="Segnalazioni" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="647" y="370" width="471" height="335" as="geometry" />
+          <mxGeometry x="748" y="-193" width="471" height="335" as="geometry" />
         </mxCell>
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-10" value="- title: String&lt;div&gt;- description: String&lt;/div&gt;&lt;div&gt;- user: User&lt;/div&gt;&lt;div&gt;- location: Number, Number&lt;/div&gt;&lt;div&gt;- photo: String&lt;/div&gt;&lt;div&gt;- tags: String&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;- validation: Boolean&lt;/font&gt;&lt;/div&gt;&lt;div&gt;- status: String&lt;/div&gt;&lt;div&gt;- priority: Number&lt;/div&gt;&lt;div&gt;- timestamps: Data&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="V4XFyPgnutx3cwaMfU-Y-9" vertex="1">
           <mxGeometry y="26" width="471" height="149" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry y="183" width="471" height="152" as="geometry" />
         </mxCell>
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-17" value="Utente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1443" y="370" width="431" height="304" as="geometry" />
+          <mxGeometry x="1393" y="-193" width="431" height="304" as="geometry" />
         </mxCell>
         <mxCell id="V4XFyPgnutx3cwaMfU-Y-18" value="- username: String&lt;div&gt;- email: String&lt;/div&gt;&lt;div&gt;- password: String&lt;/div&gt;&lt;div&gt;- phone: Number&lt;/div&gt;&lt;div&gt;- posizione: Boolean&lt;/div&gt;&lt;div&gt;- segnalazioni: Report[]&lt;/div&gt;&lt;div&gt;- googleId: String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="V4XFyPgnutx3cwaMfU-Y-17" vertex="1">
           <mxGeometry y="26" width="431" height="134" as="geometry" />
@@ -47,10 +47,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z63-iecKKiaxwsUvU0zS-2" value="Crea report" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1254" y="363" width="79" height="26" as="geometry" />
+          <mxGeometry x="1267" y="-206" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z63-iecKKiaxwsUvU0zS-3" value="0,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1396" y="366" width="35" height="26" as="geometry" />
+          <mxGeometry x="1354" y="-197" width="35" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z63-iecKKiaxwsUvU0zS-4" value="Registrazione" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1251" y="781" width="431" height="304" as="geometry" />
@@ -120,6 +120,18 @@
         </mxCell>
         <mxCell id="JmUtmuI74DCiK5lw40Vg-17" value="&lt;div&gt;+ modifica_Profilo(username: String, email: String, Phone: Int, posizione: Bool): void&lt;/div&gt;&lt;div&gt;+ modifica_Password(password: String): void&lt;/div&gt;&lt;div&gt;+ delete_Profilo(): void&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JmUtmuI74DCiK5lw40Vg-14">
           <mxGeometry y="168" width="431" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="JmUtmuI74DCiK5lw40Vg-18" value="Utente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2384" y="545" width="431" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JmUtmuI74DCiK5lw40Vg-19" value="- username: String&lt;div&gt;- email: String&lt;/div&gt;&lt;div&gt;- password: String&lt;/div&gt;&lt;div&gt;- phone: Number&lt;/div&gt;&lt;div&gt;- posizione: Boolean&lt;/div&gt;&lt;div&gt;- segnalazioni: Report[]&lt;/div&gt;&lt;div&gt;- googleId: String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JmUtmuI74DCiK5lw40Vg-18">
+          <mxGeometry y="26" width="431" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="JmUtmuI74DCiK5lw40Vg-22" value="Segnalazioni" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="325" width="471" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="JmUtmuI74DCiK5lw40Vg-23" value="- title: String&lt;div&gt;- description: String&lt;/div&gt;&lt;div&gt;- user: User&lt;/div&gt;&lt;div&gt;- location: Number, Number&lt;/div&gt;&lt;div&gt;- photo: String&lt;/div&gt;&lt;div&gt;- tags: String&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;- validation: Boolean&lt;/font&gt;&lt;/div&gt;&lt;div&gt;- status: String&lt;/div&gt;&lt;div&gt;- priority: Number&lt;/div&gt;&lt;div&gt;- timestamps: Data&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JmUtmuI74DCiK5lw40Vg-22">
+          <mxGeometry y="26" width="471" height="149" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
