@@ -1101,8 +1101,8 @@
             <mxPoint x="630" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MK4fKn1G6UGjWGX4Uu5Q-125" value="Inserimento dati" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
-          <mxGeometry x="465" y="-520" width="110" height="30" as="geometry" />
+        <mxCell id="MK4fKn1G6UGjWGX4Uu5Q-125" value="Dettagli nuova segnalazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
+          <mxGeometry x="435" y="-520" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MK4fKn1G6UGjWGX4Uu5Q-126" value="Modifica segnalazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
           <mxGeometry x="680" y="-95" width="140" height="30" as="geometry" />
