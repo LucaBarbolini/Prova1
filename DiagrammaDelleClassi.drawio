@@ -100,6 +100,15 @@
         <mxCell id="JmUtmuI74DCiK5lw40Vg-8" value="&lt;div&gt;+ creazioneSegnalazione(title: String, description: String, location : Number,Number, photo: String)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JmUtmuI74DCiK5lw40Vg-5">
           <mxGeometry y="168" width="431" height="136" as="geometry" />
         </mxCell>
+        <mxCell id="JmUtmuI74DCiK5lw40Vg-9" value="Data" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1996" y="377" width="431" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JmUtmuI74DCiK5lw40Vg-10" value="- anno: int&lt;div&gt;- mese: int&lt;/div&gt;&lt;div&gt;- giorno: int&lt;/div&gt;&lt;div&gt;- ora: int&amp;nbsp;&lt;/div&gt;&lt;div&gt;- minuto: int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JmUtmuI74DCiK5lw40Vg-9">
+          <mxGeometry y="26" width="431" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="JmUtmuI74DCiK5lw40Vg-13" value="Classe di supporto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2144" y="335" width="117" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
