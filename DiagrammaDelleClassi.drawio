@@ -155,6 +155,12 @@
         <mxCell id="JmUtmuI74DCiK5lw40Vg-32" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1512" y="1144" width="25" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="JmUtmuI74DCiK5lw40Vg-34" value="Autenticazione Utente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1246" y="695" width="135" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmUtmuI74DCiK5lw40Vg-35" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="730" width="25" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
