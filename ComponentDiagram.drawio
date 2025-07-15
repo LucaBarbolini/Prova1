@@ -1275,8 +1275,8 @@
             <mxPoint x="-50" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hu9rQfPGjnTdZqDQ9A40-42" value="Informazioni utente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
-          <mxGeometry x="-25" y="730" width="130" height="30" as="geometry" />
+        <mxCell id="hu9rQfPGjnTdZqDQ9A40-42" value="Dati personali" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
+          <mxGeometry x="-10" y="730" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hu9rQfPGjnTdZqDQ9A40-44" value="Gestione mappe" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
           <mxGeometry x="440" y="560" width="160" height="80" as="geometry" />
