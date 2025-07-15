@@ -153,7 +153,7 @@
           <mxGeometry x="8" y="948" width="25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="F0iVODicUUK4-c3CpLjn-3" value="Email" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="1080" width="431" height="304" as="geometry" />
+          <mxGeometry x="2180" y="1080" width="431" height="264" as="geometry" />
         </mxCell>
         <mxCell id="F0iVODicUUK4-c3CpLjn-4" value="&lt;div&gt;- email: String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="F0iVODicUUK4-c3CpLjn-3">
           <mxGeometry y="26" width="431" height="134" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry y="160" width="431" height="8" as="geometry" />
         </mxCell>
         <mxCell id="F0iVODicUUK4-c3CpLjn-6" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ conferma_creazione_utente()&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="F0iVODicUUK4-c3CpLjn-3">
-          <mxGeometry y="168" width="431" height="136" as="geometry" />
+          <mxGeometry y="168" width="431" height="96" as="geometry" />
         </mxCell>
         <mxCell id="F0iVODicUUK4-c3CpLjn-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z63-iecKKiaxwsUvU0zS-5" target="F0iVODicUUK4-c3CpLjn-4">
           <mxGeometry relative="1" as="geometry" />
