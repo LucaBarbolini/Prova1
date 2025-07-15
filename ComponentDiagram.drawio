@@ -1161,7 +1161,7 @@
         <mxCell id="MK4fKn1G6UGjWGX4Uu5Q-148" value="Modifica dati utente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
           <mxGeometry x="260" y="385" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hu9rQfPGjnTdZqDQ9A40-0" value="Pannello di controllo admin" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
+        <mxCell id="hu9rQfPGjnTdZqDQ9A40-0" value="Pannello di controllo" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="MK4fKn1G6UGjWGX4Uu5Q-1">
           <mxGeometry x="40" y="-80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hu9rQfPGjnTdZqDQ9A40-1" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="hu9rQfPGjnTdZqDQ9A40-0">
