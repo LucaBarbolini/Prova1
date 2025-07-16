@@ -659,6 +659,9 @@
         <mxCell id="3dLZFbEhHAzNFFZbeVsE-74" value="+ modifica_Profilo(username: String, email: String, Phone: Int, posizione: Bool): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="3dLZFbEhHAzNFFZbeVsE-70">
           <mxGeometry y="168" width="431" height="103" as="geometry" />
         </mxCell>
+        <mxCell id="GMprvDZniFe33MExYipa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3dLZFbEhHAzNFFZbeVsE-1" source="3dLZFbEhHAzNFFZbeVsE-76" target="3dLZFbEhHAzNFFZbeVsE-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3dLZFbEhHAzNFFZbeVsE-76" value="Admin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="3dLZFbEhHAzNFFZbeVsE-1">
           <mxGeometry x="903" y="2320" width="431" height="333" as="geometry" />
         </mxCell>
