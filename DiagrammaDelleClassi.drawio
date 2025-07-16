@@ -663,7 +663,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3dLZFbEhHAzNFFZbeVsE-106" value="Email" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="3dLZFbEhHAzNFFZbeVsE-1">
-          <mxGeometry x="1280" y="1600" width="400" height="264" as="geometry" />
+          <mxGeometry x="1280" y="1600" width="400" height="280" as="geometry" />
         </mxCell>
         <mxCell id="3dLZFbEhHAzNFFZbeVsE-107" value="&lt;div&gt;- email: String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="3dLZFbEhHAzNFFZbeVsE-106">
           <mxGeometry y="26" width="400" height="134" as="geometry" />
@@ -672,7 +672,7 @@
           <mxGeometry y="160" width="400" height="8" as="geometry" />
         </mxCell>
         <mxCell id="3dLZFbEhHAzNFFZbeVsE-109" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ conferma_creazione_utente()&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="3dLZFbEhHAzNFFZbeVsE-106">
-          <mxGeometry y="168" width="400" height="96" as="geometry" />
+          <mxGeometry y="168" width="400" height="112" as="geometry" />
         </mxCell>
         <mxCell id="3dLZFbEhHAzNFFZbeVsE-110" value="Invia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3dLZFbEhHAzNFFZbeVsE-1">
           <mxGeometry x="1111" y="1660" width="43" height="26" as="geometry" />
